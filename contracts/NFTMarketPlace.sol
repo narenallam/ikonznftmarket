@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// Smart Contract licence : Rossum
 pragma solidity ^0.8.4;
 
 import "@openzeppelin/contracts/utils/Counters.sol";
